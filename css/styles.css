@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@800&display=swap');
+
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+.button {
+    border-radius: 30px;
+    border: 1px;    
+}  
+
+.box1 {
+    background-color: rgb(58, 200, 152);
+}
+
+.box2 {
+    display: flex;
+    background-color: rgb(201, 74, 74);
+}
+
+.box3 {
+    display: flex;
+    background-color: rgb(238, 238, 72);
+}
+
+.footer {
+    margin-top: 25px;
+    background-color: grey;    
+}
+
+.header {
+    width: 95px;
+    display: flex;
+}
+
+.headbuttons {
+    background-color: rgb(246, 77, 105);
+    text-align: right;
+}
+
+h1 {
+    color: white;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    letter-spacing: 0.1em;
+}
+
+.logo {
+    background-color: rgb(163, 91, 103);
+}
+.maya {
+    background-color: pink;
+    height: 50px;   
+    width: 50px;
+}
+
+.menu {
+    background-color: rgb(170, 129, 209);
+    margin-top: 25px;
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 800;
+    word-spacing: 10px;
+}
+
+p {
+    color: white;
+    font-family: 'Inter', sans-serif;
+}
+
+.pfooter {
+    font-family: 'Inter', sans-serif;
+    color: black;
+}
+
+/* selector, selector, selector {
+    para cambiar el estilo de varios selectores a la vez
+}
